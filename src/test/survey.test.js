@@ -17,6 +17,8 @@ describe("Survey Model", function(){
         console.log(result);
         console.log(result);
         console.log(result);
+        console.log(result);
+        console.log(result);
         expect(result).to.equal("Success! Captcha input matched.");
     });
 
